@@ -7,6 +7,6 @@ by judescripts@gmail.com
 + Finally a visual studio theme that is modern and pleasing to the eye for C# developments! 
 
 ## Dependency:
-+ Color Themes for Visual Studio (Need to download this Vs extension)
++ Color Themes for Visual Studio (Need to download this VS extension)
 ---
 ![sample image](https://github.com/judescripts/VisualStudioThemes/blob/master/VisualStudio/example.PNG)
