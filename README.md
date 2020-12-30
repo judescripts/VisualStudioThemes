@@ -1,3 +1,5 @@
+# This is not maintained - a better version for the night owl theme plugin available here: <https://marketplace.visualstudio.com/items?itemName=kaos.nightowl>
+
 # VisualStudioThemes
 Personally customized visual studio themes (2019 community w/ ReSharper)
 by judescripts@gmail.com
